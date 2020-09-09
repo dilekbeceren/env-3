@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{045D3205-5EC6-4049-9D41-2C60D45DA0BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Garanti_Envanter_3</RootNamespace>
-    <AssemblyName>Garanti Envanter 3</AssemblyName>
+    <RootNamespace>Envanter_3</RootNamespace>
+    <AssemblyName>Envanter 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
